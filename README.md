@@ -2,7 +2,7 @@
 
 I am Shengxin, people call me Sean, a computer science student who is studying in [Trinity College Dublin](https://www.tcd.ie/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shengxin-chen-b30074261/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shengxin-chen/) 
 [![Gmail Badge](https://img.shields.io/badge/-shengxic@tcd.ie-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shengxic@tcd.ie)](mailto:shengxic@tcd.ie)
 
 ##  💻Technologies
