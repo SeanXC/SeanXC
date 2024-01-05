@@ -23,3 +23,7 @@ I am Shengxin, people call me Sean, a computer science student who is studying i
 [![](https://visitcount.itsvg.in/api?id=SeanXC&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- created with some help from GPRM ( https://gprm.itsvg.in ) -->
+
+<!--<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=SeanXC&label=Profile%20Views&color=1&icon=5&pretty=false" />
+</a>-->
