@@ -20,4 +20,6 @@ I am Shengxin, people call me Sean, a computer science student who is studying i
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SeanXC&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanXC&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=SeanXC&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 <!-- created with some help from GPRM ( https://gprm.itsvg.in ) -->
