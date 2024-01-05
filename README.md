@@ -19,3 +19,6 @@ I am Shengxin, people call me Sean, a computer science student who is studying i
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Matlab](https://img.shields.io/badge/-Matlab-orange?style=flat-square&logo=matlab)
 
+
+[![](https://visitcount.itsvg.in/api?id=SeanXC&icon=0&color=0)](https://visitcount.itsvg.in)
+
