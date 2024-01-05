@@ -10,9 +10,9 @@ I am Shengxin, people call me Sean, a recent computer science studying [Trinity 
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 ![ARM Assembly](https://img.shields.io/badge/-ARM%20Assembly-0091BD?style=flat-square&logo=arm)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/-black?style=flat-square&logo=c)
 ![VHDL](https://img.shields.io/badge/-VHDL-543DE0?style=flat-square&logo=vhdl)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
