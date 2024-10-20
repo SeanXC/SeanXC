@@ -4,18 +4,22 @@ I am Shengxin, people call me Sean, a computer science student who is studying i
 ## 🌐 Socials:
 [![Linkedin Badge](https://img.shields.io/badge/-shengxin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/shengxin-chen](https://www.linkedin.com/in/shengxin-chen-b30074261/)](https://www.linkedin.com/in/shengxin-chen-b30074261/)/)](https://www.linkedin.com/in/shengxin-chen-b30074261/)[![Gmail Badge](https://img.shields.io/badge/-shengxic@tcd.ie-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shengxic@tcd.ie)](mailto:shengxic@tcd.ie)
 
-##  💻Technologies
+## 💻 Technologies
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
 ![ARM Assembly](https://img.shields.io/badge/-ARM%20Assembly-0091BD?style=flat-square&logo=arm)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
 ![Matlab](https://img.shields.io/badge/-Matlab-orange?style=flat-square&logo=matlab) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
+
 
 ## 🏆 Projects
 
