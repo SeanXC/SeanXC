@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am **Shengxin**, but people call me Sean, a **3rd year CS** student studying at [**Trinity College Dublin**](https://www.tcd.ie/). Passionate about AI, software development, and full-stack engineering.
+I am **Shengxin**, u can just call me Sean, a **3rd year CS** student studying at [**Trinity College Dublin**](https://www.tcd.ie/). Passionate about AI, software development, and full-stack engineering.
 
 ## 🌐 Socials:
 [![Linkedin Badge](https://img.shields.io/badge/-shengxin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shengxin-chen-b30074261/)](https://www.linkedin.com/in/shengxin-chen-b30074261/)
