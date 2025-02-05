@@ -46,16 +46,16 @@ I am **Shengxin**, u can just call me Sean, a **3rd year CS** student studying a
 
 ## 🏆 Featured Projects
 
-### 1️⃣ [**Pokedex (PokeApp)**](https://github.com/SeanXC/pokedex)  
+1️⃣ [**Pokedex (PokeApp)**](https://github.com/SeanXC/pokedex)  
 A **Pokémon discovery and quiz game** built using **Spring Boot & React**. Users can explore Pokémon data and test their knowledge through an interactive quiz.
 
-### 2️⃣ [**AI-RentResolve (RentaLyze)**](https://github.com/SeanXC/AI-RentResolve)  
+2️⃣ [**AI-RentResolve (RentaLyze)**](https://github.com/SeanXC/AI-RentResolve)  
 An **AI-powered tenant-landlord dispute resolution platform** that analyzes rental agreements and generates legal complaint letters using **OpenAI GPT & Python**.
 
-### 3️⃣ [**HoloHome**](https://github.com/SeanXC/HoloHome)  
+3️⃣ [**HoloHome**](https://github.com/SeanXC/HoloHome)  
 An **Augmented Reality home decoration app** for **HoloLens 2**. Built using **Unity & C#**, it allows users to visualize and arrange furniture in their real-world environment.
 
-### 4️⃣ [**CountryInfoHub**](https://github.com/SeanXC/CountryInfoHub)  
+4️⃣ [**CountryInfoHub**](https://github.com/SeanXC/CountryInfoHub)  
 A **full-stack country information app** built with **React & Node.js**. Fetches country details from the REST Countries API.
 
 ---
