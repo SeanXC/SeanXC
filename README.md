@@ -59,13 +59,3 @@ An **Augmented Reality home decoration app** for **HoloLens 2**. Built using **U
 A **full-stack country information app** built with **React & Node.js**. Fetches country details from the REST Countries API.
 
 ---
-
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=SeanXC&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SeanXC&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanXC&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=SeanXC&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
----
