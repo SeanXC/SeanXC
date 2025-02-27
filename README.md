@@ -31,7 +31,7 @@ A **Pokémon discovery and quiz game** built using **Spring Boot & React**. This
 
 ### 3️⃣ [**AI-RentResolve (RentaLyze)**](https://github.com/SeanXC/AI-RentResolve) 🏡  
 An **AI-powered dispute resolution platform** that assists tenants in resolving rental conflicts.  
-Led a **team of four** at [**HackTrinity**](https://hacktrinity.com/), successfully developing a platform that:  
+Led a **team of four** at [**HackTrinity**](https://hacktrinity.com/) (hackathon), successfully developing a platform that:  
 ✅ **Analyzes rental agreements** to extract key clauses  
 ✅ **Generates formal complaint letters** using OpenAI’s GPT models  
 ✅ **Allows users to customize the letter tone** (e.g., formal, concerned)  
