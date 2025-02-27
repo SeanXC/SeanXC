@@ -6,6 +6,68 @@ I am **Shengxin**, u can just call me Sean, a **3rd year CS** student studying a
 [![Linkedin Badge](https://img.shields.io/badge/-shengxin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shengxin-chen-b30074261/)](https://www.linkedin.com/in/shengxin-chen-b30074261/)
 [![Gmail Badge](https://img.shields.io/badge/-shengxic@tcd.ie-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shengxic@tcd.ie)](mailto:shengxic@tcd.ie)
 
+---
+
+## 🚀 Currently Developing Project
+### **AI Course Designer** 🤖  
+🚀 **Role: Product Owner & Team Leader**  
+A **cutting-edge AI-powered tool** developed in collaboration with [**Nualang**](https://nualang.com/), designed to generate structured language courses dynamically.  
+This project focuses on enhancing AI-driven language learning experiences with:  
+✅ **AI-generated language courses** using OpenAI’s LLMs  
+✅ **Conversation-based learning** with AI-powered roleplay and chatbot interactions  
+✅ **Text-to-Speech (TTS) support** for pronunciation and listening exercises  
+✅ **AWS-powered backend**, leveraging Lambda, API Gateway, and DynamoDB  
+✅ **Built with React (Vite) + Node.js (Express) + OpenAI API**  
+
+---
+
+## 🏆 Featured Projects
+
+### 1️⃣ [**ConvoCraft**](https://github.com/SeanXC/team6) 🚀  
+A **document-to-audio AI platform** built during [**HackIreland**](https://www.hackireland.com/) (30-hour hackathon).  
+Led a **team of four** as the **team leader**, successfully developing ConvoCraft, which:  
+✅ Extracts **key insights** from uploaded PDFs  
+✅ Generates **personalized audio explanations** based on user interests  
+✅ Utilizes **OpenAI models** for NLP and speech synthesis  
+✅ Built with **React (Vite) + Node.js (Express) + MongoDB**  
+✅ **Deployed on Docker, Vercel, and Railway**
+
+### 2️⃣ [**Pokedex (PokeApp)**](https://github.com/SeanXC/pokedex) 🎮  
+A **Pokémon discovery and quiz game** built using **Spring Boot & React**. This interactive app allows users to:  
+✅ **Discover Pokémon** by searching their names  
+✅ **Manage a personal Pokedex** by saving favorite Pokémon  
+✅ **Test knowledge** by playing the “Who’s That Pokémon?” quiz  
+✅ Built with **Spring Boot (Java) + React + PostgreSQL**  
+✅ **Deployed using Docker and Docker Compose**  
+
+### 3️⃣ [**AI-RentResolve (RentaLyze)**](https://github.com/SeanXC/AI-RentResolve) 🏡  
+An **AI-powered dispute resolution platform** that assists tenants in resolving rental conflicts.  
+Led a **team of four** at [**HackTrinity**](https://hacktrinity.com/), successfully developing a platform that:  
+✅ **Analyzes rental agreements** to extract key clauses  
+✅ **Generates formal complaint letters** using OpenAI’s GPT models  
+✅ **Allows users to customize the letter tone** (e.g., formal, concerned)  
+✅ **Provides downloadable PDFs** for submission to landlords  
+✅ Built with **Python (Flask) + OpenAI API + Bootstrap**  
+
+### 4️⃣ [**HoloHome**](https://github.com/SeanXC/HoloHome) 🏠  
+An **Augmented Reality home decoration app** developed for **HoloLens 2**, enabling users to:  
+✅ **Virtually place and arrange furniture** in real-world spaces  
+✅ **Use intuitive gesture and voice commands** for interaction  
+✅ **Browse furniture categories** and manage placements in 3D  
+✅ Built with **Unity + C# + Microsoft Mixed Reality Toolkit**  
+
+### 5️⃣ [**CountryInfoHub**](https://github.com/SeanXC/CountryInfoHub) 🌍  
+A **full-stack country information platform** that provides details about any country. Users can:  
+✅ **Search for a country** and retrieve key details (population, region, currency, etc.)  
+✅ **Fetch real-time data** from the REST Countries API  
+✅ **Handle loading states and errors** gracefully  
+✅ Built with **React (Vite) + Node.js (Express) + Axios**  
+✅ **Deployed using Docker** for easy setup  
+
+
+---
+
+
 ## 💻 Technologies & Skills
 
 ### **Languages**
@@ -41,21 +103,5 @@ I am **Shengxin**, u can just call me Sean, a **3rd year CS** student studying a
 ### **AI & NLP**
 ![OpenAI GPT](https://img.shields.io/badge/OpenAI%20GPT-%230062DA.svg?style=flat&logo=openai&logoColor=white)
 ![Natural Language Processing](https://img.shields.io/badge/NLP-%2300A4CC.svg?style=flat)
-
----
-
-## 🏆 Featured Projects
-
-1️⃣ [**Pokedex (PokeApp)**](https://github.com/SeanXC/pokedex)  
-A **Pokémon discovery and quiz game** built using **Spring Boot & React**. Users can explore Pokémon data and test their knowledge through an interactive quiz.
-
-2️⃣ [**AI-RentResolve (RentaLyze)**](https://github.com/SeanXC/AI-RentResolve)  
-An **AI-powered tenant-landlord dispute resolution platform** that analyzes rental agreements and generates legal complaint letters using **OpenAI GPT & Python**.
-
-3️⃣ [**HoloHome**](https://github.com/SeanXC/HoloHome)  
-An **Augmented Reality home decoration app** for **HoloLens 2**. Built using **Unity & C#**, it allows users to visualize and arrange furniture in their real-world environment.
-
-4️⃣ [**CountryInfoHub**](https://github.com/SeanXC/CountryInfoHub)  
-A **full-stack country information app** built with **React & Node.js**. Fetches country details from the REST Countries API.
 
 ---
