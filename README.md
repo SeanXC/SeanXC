@@ -2,7 +2,7 @@
 
 I am **Shengxin**, u can just call me Sean, a **3rd year CS** student studying at [**Trinity College Dublin**](https://www.tcd.ie/). Passionate about AI, software development, and full-stack engineering.
 
-#### 📌 Table of Contents
+##### 📌 Table of Contents
 - [🏆 Featured Projects](#-featured-projects)
 - [🚀 Currently Developing Project](#-currently-developing-project)
 - [💻 Technologies & Skills](#-technologies--skills)
