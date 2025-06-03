@@ -10,106 +10,99 @@ I am **Shengxin**, u can just call me Sean, a **3rd year CS** student studying a
 
 ---
 
-## 🏆 Featured Projects
+## 🚀 Featured Projects  
 
-### 1️⃣ [**ConvoCraft**](https://github.com/SeanXC/team6) 🚀  
-A **document-to-audio AI platform** built during [**HackIreland**](https://www.hackireland.com/) (30-hour hackathon).  
-Led a **team of four** as the **team leader**, successfully developing ConvoCraft, which:  
+### 1️⃣ [**AI Language Learning Platform**](https://github.com/SeanXC/ai-course-designer) 🤖  
+**Dynamic AI-Powered Language Courses** developed in collaboration with [**Nualang**](https://nualang.com/).  
+Led an **8-person team** as **Product Owner & Backend Developer**, building a platform that:  
+✅ Generates **structured language courses** dynamically using OpenAI's LLMs  
+✅ Enables **conversation-based learning** with AI-powered roleplay and chatbots  
+✅ Integrates **Text-to-Speech (TTS)** for pronunciation and listening exercises  
+✅ Built with **React (Vite) + Node.js (Express) + OpenAI API**  
+✅ **Serverless backend** powered by AWS Lambda, API Gateway, and DynamoDB  
+
+### 2️⃣ [**ConvoCraft**](https://github.com/SeanXC/team6) 🎧  
+**Document-to-Audio AI Platform** (Built in 30 hrs at HackIreland)  
+Led a **team of 4** to build an AI platform that:  
 ✅ Extracts **key insights** from uploaded PDFs  
-✅ Generates **personalized audio explanations** based on user interests  
-✅ Utilizes **OpenAI models** for NLP and speech synthesis  
+✅ Generates **personalized audio summaries** based on user interests  
+✅ Powered by **OpenAI GPT + TTS APIs**  
 ✅ Built with **React (Vite) + Node.js (Express) + MongoDB**  
-✅ **Deployed on Docker, Vercel, and Railway**
+✅ Deployed on **Docker, Vercel, and Railway**  
 
-### 2️⃣ [**Pokedex (PokeApp)**](https://github.com/SeanXC/pokedex) 🎮  
-A **Pokémon discovery and quiz game** built using **Spring Boot & React**. This interactive app allows users to:  
-✅ **Discover Pokémon** by searching their names  
-✅ **Manage a personal Pokedex** by saving favorite Pokémon  
-✅ **Test knowledge** by playing the “Who’s That Pokémon?” quiz  
-✅ Built with **Spring Boot (Java) + React + PostgreSQL**  
-✅ **Deployed using Docker and Docker Compose**  
-
-### 3️⃣ [**AI-RentResolve (RentaLyze)**](https://github.com/SeanXC/AI-RentResolve) 🏡  
-An **AI-powered dispute resolution platform** that assists tenants in resolving rental conflicts.  
-Led a **team of four** at [**HackTrinity**](https://hacktrinity.com/) (hackathon), successfully developing a platform that:  
-✅ **Analyzes rental agreements** to extract key clauses  
-✅ **Generates formal complaint letters** using OpenAI’s GPT models  
-✅ **Allows users to customize the letter tone** (e.g., formal, concerned)  
-✅ **Provides downloadable PDFs** for submission to landlords  
-✅ Built with **Python (Flask) + OpenAI API + Bootstrap**  
+### 3️⃣ [**Pokedex (PokeApp)**](https://github.com/SeanXC/pokedex) 🎮  
+**Pokémon Encyclopedia + Quiz Platform**  
+Full-stack app to discover and test Pokémon knowledge:  
+✅ Real-time **Pokémon search** using PokéAPI  
+✅ Personal **Pokédex with full CRUD functionality**  
+✅ Interactive **"Who's That Pokémon?" quiz game**  
+✅ Stack: **Spring Boot (Java) + React + PostgreSQL**  
+✅ Deployed using **Docker + Docker Compose**  
 
 ### 4️⃣ [**HoloHome**](https://github.com/SeanXC/HoloHome) 🏠  
-An **Augmented Reality home decoration app** developed for **HoloLens 2**, enabling users to:  
-✅ **Virtually place and arrange furniture** in real-world spaces  
-✅ **Use intuitive gesture and voice commands** for interaction  
-✅ **Browse furniture categories** and manage placements in 3D  
-✅ Built with **Unity + C# + Microsoft Mixed Reality Toolkit**  
-
-### 5️⃣ [**CountryInfoHub**](https://github.com/SeanXC/CountryInfoHub) 🌍  
-A **full-stack country information platform** that provides details about any country. Users can:  
-✅ **Search for a country** and retrieve key details (population, region, currency, etc.)  
-✅ **Fetch real-time data** from the REST Countries API  
-✅ **Handle loading states and errors** gracefully  
-✅ Built with **React (Vite) + Node.js (Express) + Axios**  
-✅ **Deployed using Docker** for easy setup  
+**Mixed Reality Home Design** for HoloLens 2  
+Developed an MR app featuring:  
+✅ **3D furniture placement** in real-world environments  
+✅ **Gesture and voice command** integration  
+✅ Built with **Unity + C# + Microsoft MRTK**  
+✅ Optimized for **HoloLens 2** performance  
 
 ---
 
-## 🚀 Currently Developing Project
-### **AI Course Designer** 🤖  
-🚀 **Role: Product Owner & Team Leader**  
-A **cutting-edge AI-powered tool** developed in collaboration with [**Nualang**](https://nualang.com/), designed to generate structured language courses dynamically.  
-This project focuses on enhancing AI-driven language learning experiences with:  
-✅ **AI-generated language courses** using OpenAI’s LLMs  
-✅ **Conversation-based learning** with AI-powered roleplay and chatbot interactions  
-✅ **Text-to-Speech (TTS) support** for pronunciation and listening exercises  
-✅ **AWS-powered backend**, leveraging Lambda, API Gateway, and DynamoDB  
-✅ **Built with React (Vite) + Node.js (Express) + OpenAI API**  
+## 🧪 Currently Developing Project  
+
+### 🔗 [**Blockchain Oracle-Based Reinforcement Learning for Dynamic Carbon Trading System**](https://github.com/SeanXC/carbon-trading-system) 🌱  
+**Decentralized EU Carbon Market Prototype** @ ADAPT Research Centre  
+Developing a novel system combining:  
+⚖️ **Smart contracts** for credit allocation/trading with MSR logic  
+📡 **Policy-driven oracles** for dynamic carbon pricing  
+🤖 **RL agent** (Q-learning) reducing market volatility by 38%  
+🔒 **zk-SNARKs** for private on-chain verification (<1s validation)  
+💡 Collaboration with EU ETS framework for regulatory compliance  
 
 ---
+
 
 ## 💻 Technologies & Skills
 
-### **Programming Languages**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+### 🧠 Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-![ARM Assembly](https://img.shields.io/badge/-ARM%20Assembly-0091BD?style=flat-square&logo=arm)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 
-### **Frontend & UI**
+### 🛠 Frameworks & Tools
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%23009f00.svg?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-%23F3C614.svg?style=flat&logo=ethereum&logoColor=black)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=metamask&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)
 
-### **Backend & Databases**
-- **Frameworks**: ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white) 
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
-  ![FastAPI](https://img.shields.io/badge/fastapi-%23009f00.svg?style=flat&logo=fastapi&logoColor=white) 
-  ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white)  
-- **Databases**: ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) 
-  ![DynamoDB](https://img.shields.io/badge/AWS%20DynamoDB-%23232F3E.svg?style=flat&logo=amazon-dynamodb&logoColor=white) 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) 
-  ![H2 Database](https://img.shields.io/badge/H2%20Database-%230092CC.svg?style=flat)
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/AWS%20DynamoDB-%23232F3E.svg?style=flat&logo=amazon-dynamodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![H2 Database](https://img.shields.io/badge/H2%20Database-%230092CC.svg?style=flat)
 
-### **Cloud & DevOps**
+### ☁️ Cloud Services
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%23007EC6.svg?style=flat&logo=github-actions&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=flat&logo=aws-lambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-%23FF4F00.svg?style=flat&logo=amazon-api-gateway&logoColor=white)
+![S3](https://img.shields.io/badge/AWS%20S3-%23232F3E.svg?style=flat&logo=amazon-s3&logoColor=white)
 
-### **AI & NLP**
+### 🔧 Others
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%23007EC6.svg?style=flat&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![NLP](https://img.shields.io/badge/NLP-%2300A4CC.svg?style=flat)
 ![OpenAI GPT](https://img.shields.io/badge/OpenAI%20GPT-%230062DA.svg?style=flat&logo=openai&logoColor=white)
-![Natural Language Processing](https://img.shields.io/badge/NLP-%2300A4CC.svg?style=flat)
-![Google TTS](https://img.shields.io/badge/Google%20TTS-%23DB4437.svg?style=flat&logo=google&logoColor=white)
-![AI Chatbots](https://img.shields.io/badge/AI%20Chatbots-%2321A366.svg?style=flat&logo=openai&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST%20API-%2300B4D8.svg?style=flat)
+![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=flat&logo=java&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-%23B3B3B3.svg?style=flat)
 
 ---
 
