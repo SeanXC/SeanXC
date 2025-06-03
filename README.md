@@ -56,7 +56,7 @@ Developed an MR app featuring:
 Developing a novel system combining:  
 ⚖️ **Smart contracts** for credit allocation/trading with MSR logic  
 📡 **Policy-driven oracles** for dynamic carbon pricing  
-🤖 **RL agent** (Q-learning) reducing market volatility by 38%  
+🤖 **RL agent** (**Deep Q-Network**) reducing market volatility by 38%  
 🔒 **zk-SNARKs** for private on-chain verification (<1s validation)  
 💡 Collaboration with EU ETS framework for regulatory compliance  
 
