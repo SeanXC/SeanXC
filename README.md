@@ -10,9 +10,11 @@ I am **Shengxin**, u can just call me Sean, a **3rd year CS** student studying a
 
 ---
 
-## 🚀 Featured Projects  
+# 🌟 Featured Projects
 
-### 1️⃣ [**AI Language Learning Platform**](https://github.com/SeanXC/ai-course-designer) 🤖  
+---
+
+### 1️⃣ [**AI Language Learning Platform**](https://github.com/SeanXC/ai-course-designer)   
 **Dynamic AI-Powered Language Courses** developed in collaboration with [**Nualang**](https://nualang.com/).  
 Led an **8-person team** as **Product Owner & Backend Developer**, building a platform that:  
 ✅ Generates **structured language courses** dynamically using OpenAI's LLMs  
@@ -20,45 +22,55 @@ Led an **8-person team** as **Product Owner & Backend Developer**, building a pl
 ✅ Integrates **Text-to-Speech (TTS)** for pronunciation and listening exercises  
 ✅ Built with **React (Vite) + Node.js (Express) + OpenAI API**  
 ✅ **Serverless backend** powered by AWS Lambda, API Gateway, and DynamoDB  
+ 
+📺 [Demo Video](https://www.youtube.com/watch?v=klWX-lGwRgY)  
+🌐 [Instagram](https://www.instagram.com/sweng_group7)
 
-### 2️⃣ [**ConvoCraft**](https://github.com/SeanXC/team6) 🎧  
+### 2️⃣ [**ConvoCraft**](https://github.com/SeanXC/team6) 
 **Document-to-Audio AI Platform** (Built in 30 hrs at HackIreland)  
 Led a **team of 4** to build an AI platform that:  
 ✅ Extracts **key insights** from uploaded PDFs  
 ✅ Generates **personalized audio summaries** based on user interests  
 ✅ Powered by **OpenAI GPT + TTS APIs**  
 ✅ Built with **React (Vite) + Node.js (Express) + MongoDB**  
-✅ Deployed on **Docker, Vercel, and Railway**  
+✅ Deployed on **Docker, Vercel, and Railway** 
+ 
+📺 [Demo Video](https://www.youtube.com/watch?v=ZMtT2SSPatQ)  
+🌐 [Live Demo](https://t6-convocraft.vercel.app/)  
 
-### 3️⃣ [**Pokedex (PokeApp)**](https://github.com/SeanXC/pokedex) 🎮  
+### 3️⃣ [**Pokedex (PokeApp)**](https://github.com/SeanXC/pokedex)  
 **Pokémon Encyclopedia + Quiz Platform**  
 Full-stack app to discover and test Pokémon knowledge:  
 ✅ Real-time **Pokémon search** using PokéAPI  
 ✅ Personal **Pokédex with full CRUD functionality**  
 ✅ Interactive **"Who's That Pokémon?" quiz game**  
 ✅ Stack: **Spring Boot (Java) + React + PostgreSQL**  
-✅ Deployed using **Docker + Docker Compose**  
+✅ Deployed using **Docker + Docker Compose**    
+ 
+📺 [Demo Video](https://www.youtube.com/watch?v=Le-VlucOkp4)  
 
-### 4️⃣ [**HoloHome**](https://github.com/SeanXC/HoloHome) 🏠  
+### 4️⃣ [**HoloHome**](https://github.com/SeanXC/HoloHome) 
 **Mixed Reality Home Design** for HoloLens 2  
 Developed an MR app featuring:  
 ✅ **3D furniture placement** in real-world environments  
 ✅ **Gesture and voice command** integration  
 ✅ Built with **Unity + C# + Microsoft MRTK**  
-✅ Optimized for **HoloLens 2** performance  
+✅ Optimized for **HoloLens 2** performance 
+ 
+📺 [Demo Video](https://www.youtube.com/watch?v=EPZZb_zeFfw)  
 
 ---
 
-## 🧪 Currently Developing Project  
+# 🧪 Currently Developing 
 
-### 🔗 [**Blockchain Oracle-Based Reinforcement Learning for Dynamic Carbon Trading System**](https://github.com/SeanXC/carbon-trading-system) 🌱  
-**Decentralized EU Carbon Market Prototype** @ ADAPT Research Centre  
-Developing a novel system combining:  
-⚖️ **Smart contracts** for credit allocation/trading with MSR logic  
-📡 **Policy-driven oracles** for dynamic carbon pricing  
-🤖 **RL agent** (**Deep Q-Network**) reducing market volatility by 38%  
-🔒 **zk-SNARKs** for private on-chain verification (<1s validation)  
-💡 Collaboration with EU ETS framework for regulatory compliance  
+## Decentralized Carbon Trading Platform (will be made public soon) 🌱  
+**ADAPT National Research Centre (Ireland) × Laidlaw Foundation**  
+**Role**: Blockchain Researcher & System Architect  
+### 🔧 Technical Achievements:
+- ✅ Reinforcement learning agent for carbon pricing (−38% volatility, 85% accuracy)
+- ✅ On-chain Oracle and zk-SNARK proof system (<5 min generation, <1s verification)
+- ✅ Fully EU ETS-compliant mechanism including MSR (Market Stability Reserve)
+**Showcased at the 2025 Laidlaw Global Scholars Summit at Durham University (UK)**  
 
 ---
 
